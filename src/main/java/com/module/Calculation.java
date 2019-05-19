@@ -13,7 +13,7 @@ public class Calculation {
         float sub = firstOperand - secondOperand;
         return sub;
       case MUL:
-        float mul = firstOperand * secondOperand;k
+        float mul = firstOperand * secondOperand;
         return mul;
       case DIV:
         float div = firstOperand / secondOperand;
